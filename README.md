@@ -4,3 +4,5 @@
 ---
 
 Link for basics of [Go](https://tour.golang.org)
+
+Youtube tutorials on [Go](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw) 
